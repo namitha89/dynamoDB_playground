@@ -1,0 +1,38 @@
+#create dynamodb table
+aws dynamodb create-table \
+    --table-name StarShips \
+    --attribute-definitions \
+        AttributeName=Registry,AttributeType=S \
+        AttributeName=ShipClass,AttributeType=S \
+    --key-schema \
+        AttributeName=Registry,KeyType=HASH \
+        AttributeName=ShipClass,KeyType=RANGE \
+--provisioned-throughput \
+        ReadCapacityUnits=5,WriteCapacityUnits=5 \
+--region us-east-1
+
+#Describe the table
+
+aws dynamodb describe-table --table-name StarShips --output table
+
+
+#batch Write
+aws dynamodb batch-write-item \--request-items file://starfleet_002.json
+aws dynamodb batch-write-item \--request-items file://starfleet_003.json
+aws dynamodb batch-write-item \--request-items file://starfleet_004.json
+aws dynamodb batch-write-item \--request-items file://starfleet_005.json
+aws dynamodb batch-write-item \--request-items file://starfleet_006.json
+
+#get item from key
+aws dynamodb get-item --table-name StarShips --key  file://key.json
+
+#get batch item from key
+aws dynamodb batch-get-item --request-items file://request.json
+
+#get delete item
+aws dynamodb delete-item --table-name StarShips --key  file://key.json
+
+#get put item
+aws dynamodb put-item --table-name StarShips --item  file://item.json --return-consumed-capacity TOTAL
+
+

@@ -1,0 +1,26 @@
+{
+    "StarShips": {
+        "Keys":[
+            {
+                "Registry": {
+                    "S": "NAR-18834"
+                },
+                "ShipClass": {
+                    "S": "Oberth"
+                }
+
+            },
+            {
+                "Registry": {
+                    "S": "NAR-32450"
+                },
+                "ShipClass": {
+                    "S": "Undetermined"
+                }
+
+            }
+        ]
+    }
+    
+    
+}

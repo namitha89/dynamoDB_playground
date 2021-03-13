@@ -1,0 +1,454 @@
+{
+    "StarShips": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-71842"
+                    },
+                    "Name": {
+                        "S": "USS Robinson"
+                    },
+                    "ShipClass": {
+                        "S": "Galaxy"
+                    },
+                    "Description": {
+                        "S": "Taken command of by Benjamin Sisko after the Borg Invasion of 2381 in the novel Star Trek: Typhon Pact \u2013 Rough Beasts of Empire."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-71854"
+                    },
+                    "Name": {
+                        "S": "USS Venture"
+                    },
+                    "ShipClass": {
+                        "S": "Galaxy"
+                    },
+                    "Description": {
+                        "S": "Part of a Starfleet task force at Deep Space Nine during the Klingon invasion of the Cardassian Union. Participates in the Battle for Deep Space 9 and the First Battle of Chin'toka."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-71867"
+                    },
+                    "Name": {
+                        "S": "USS Trinculo"
+                    },
+                    "ShipClass": {
+                        "S": "Galaxy"
+                    },
+                    "Description": {
+                        "S": "Part of the Starfleet Armada tasked with retaking Deep Space 9 from Dominion control during \"Operation Return\" (DS:9 episode \"Sacrifice of Angels\")"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-71879"
+                    },
+                    "Name": {
+                        "S": "USS Dauntless"
+                    },
+                    "ShipClass": {
+                        "S": "Galaxy"
+                    },
+                    "Description": {
+                        "S": "First ship under players' command in Star Trek: Bridge Commander. Destroyed while escorting a transport by Cardassian ships."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-72015"
+                    },
+                    "Name": {
+                        "S": "USS Sutherland"
+                    },
+                    "ShipClass": {
+                        "S": "Nebula"
+                    },
+                    "Description": {
+                        "S": "Briefly commanded by Lieutenant Commander Data while part of the tachyon blockade during the Klingon Civil War."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-72075"
+                    },
+                    "Name": {
+                        "S": "USS Sarek"
+                    },
+                    "ShipClass": {
+                        "S": "Galaxy"
+                    },
+                    "Description": {
+                        "S": "Replaced USS Cortez in formation during operation to retake DS9."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-72381"
+                    },
+                    "Name": {
+                        "S": "USS Equinox"
+                    },
+                    "ShipClass": {
+                        "S": "Nova"
+                    },
+                    "Description": {
+                        "S": "Stranded in the Delta Quadrant. Heavily damaged by USS Voyager and destroyed by self-destruct initiated by Captain Rudolph Ransom."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-72392"
+                    },
+                    "Name": {
+                        "S": "USS Everett"
+                    },
+                    "ShipClass": {
+                        "S": "Nova"
+                    },
+                    "Description": {
+                        "S": "Commanded by Captain Claudia Alisov. Attached to the Department of Temporal Investigations. Appears in the Department of Temporal Investigations novels."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-72452"
+                    },
+                    "Name": {
+                        "S": "USS Rio Grande"
+                    },
+                    "ShipClass": {
+                        "S": "Danube"
+                    },
+                    "Description": {
+                        "S": "Vessel aboard which Jadzia Dax and Benjamin Sisko discover the Bajoran wormhole. Later located the missing Sword of Kahless. Helps rescue Sisko from the Jem'Hadar. Longest surviving DS9 runabout.[original research?]"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-72453"
+                    },
+                    "Name": {
+                        "S": "USS Yangtzee Kiang"
+                    },
+                    "ShipClass": {
+                        "S": "Danube"
+                    },
+                    "Description": {
+                        "S": "Hijacked by Bajoran terrorist Tahna Los. Became the first DS9 runabout to be destroyed when it crashed on a moon in the Gamma Quadrant."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-72454"
+                    },
+                    "Name": {
+                        "S": "USS Ganges"
+                    },
+                    "ShipClass": {
+                        "S": "Danube"
+                    },
+                    "Description": {
+                        "S": "Captured Tahna Los. Rescued Vash from the Gamma Quadrant. Destroyed by a T'Lani Munitions Cruiser."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-72617"
+                    },
+                    "Name": {
+                        "S": "USS Mekong"
+                    },
+                    "ShipClass": {
+                        "S": "Danube"
+                    },
+                    "Description": {
+                        "S": "Helps rescue Benjamin Sisko from the Jem'Hadar. Destroyed by the Jem'Hadar during the Obsidian Order/Tal Shiar attack on the Founders' homeworld in the Omarian Nebula."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-72701"
+                    },
+                    "Name": {
+                        "S": "USS Rhode Island"
+                    },
+                    "ShipClass": {
+                        "S": "Nova"
+                    },
+                    "Description": {
+                        "S": "Commanded by Captain Harry Kim in an alternate future."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-72905"
+                    },
+                    "Name": {
+                        "S": "USS Orinoco"
+                    },
+                    "ShipClass": {
+                        "S": "Danube"
+                    },
+                    "Description": {
+                        "S": "Helps rescue Benjamin Sisko from the Jem'Hadar. Destroyed by the Cardassian terrorist group \"The True Way\"."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-72936"
+                    },
+                    "Name": {
+                        "S": "USS Rubicon"
+                    },
+                    "ShipClass": {
+                        "S": "Danube"
+                    },
+                    "Description": {
+                        "S": "Shrunk to 6.5 centimeters."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-73024"
+                    },
+                    "Name": {
+                        "S": "USS Shenandoah"
+                    },
+                    "ShipClass": {
+                        "S": "Danube"
+                    },
+                    "Description": {
+                        "S": "Taken by Dax and Worf to rescue a Cardassian informant from the Dominion. Severely damaged by the Jem'Hadar en route to deliver diplomatic message to Grand Nagus Zek."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-73196"
+                    },
+                    "Name": {
+                        "S": "USS Volga"
+                    },
+                    "ShipClass": {
+                        "S": "Danube"
+                    },
+                    "Description": {
+                        "S": "Participates in botanical survey of Torad IV."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-73624"
+                    },
+                    "Name": {
+                        "S": "USS Gander"
+                    },
+                    "ShipClass": {
+                        "S": "Danube"
+                    },
+                    "Description": {
+                        "S": "Taken by Ezri Dax to search for Worf. Destroyed by the Jem'Hadar."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-73808"
+                    },
+                    "Name": {
+                        "S": "USS Lionheart"
+                    },
+                    "ShipClass": {
+                        "S": "Nova"
+                    },
+                    "Description": {
+                        "S": "Medical vessel temporarily commanded by Christine Vale in the novel Star Trek: The Fall - The Poisoned Chalice."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-74210"
+                    },
+                    "Name": {
+                        "S": "USS Valiant"
+                    },
+                    "ShipClass": {
+                        "S": "Defiant"
+                    },
+                    "Description": {
+                        "S": "Starfleet Academy Red Squad training ship. The vessel gets caught behind enemy lines after the outbreak of the Dominion War, suffered heavy losses among the standard crew and was subsequently commanded by the cadets of Red Squad. Destroyed by the Jem'Hadar after a failed attempt to destroy a new Dominion vessel. Only three people survived the destruction of the ship, (Jake Sisko, Nog, and Collins, a member of Red Squad)."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-74350"
+                    },
+                    "Name": {
+                        "S": "USS Saladin"
+                    },
+                    "ShipClass": {
+                        "S": "Defiant"
+                    },
+                    "Description": {
+                        "S": "Commanded by Captain Shinoda during the Dominion War in the short story \"Safe Harbors\"."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-74413"
+                    },
+                    "Name": {
+                        "S": "USS Twilight"
+                    },
+                    "ShipClass": {
+                        "S": "Nova"
+                    },
+                    "Description": {
+                        "S": "Starfleet Intelligence attached science vessel temporarily commanded by Jaryd Harker, MD in the novel Star Trek: Adamant."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-74562"
+                    },
+                    "Name": {
+                        "S": "USS Pathfinder"
+                    },
+                    "ShipClass": {
+                        "S": "Intrepid"
+                    },
+                    "Description": {
+                        "S": "Captain Christine McDonald's new command in the book Star Trek: Preserver. Destroyed in battle with USS Enterprise (NCC-1701-E) and Ferengi Marauder-class starship Leveraged Buyout around planet Halkan."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-74600"
+                    },
+                    "Name": {
+                        "S": "USS Intrepid"
+                    },
+                    "ShipClass": {
+                        "S": "Intrepid"
+                    },
+                    "Description": {
+                        "S": "Pathfinder vessel. Part of Battle Group Omega sent to intercept Reman warship Scimitar."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-74602"
+                    },
+                    "Name": {
+                        "S": "USS Yukon"
+                    },
+                    "ShipClass": {
+                        "S": "Danube"
+                    },
+                    "Description": {
+                        "S": "Stolen by Founder in failed attempt to destroy the Bajoran sun. Destroyed by a Protomatter Device also killing a Founder."
+                    }
+                }
+            }
+        }
+    ]
+}

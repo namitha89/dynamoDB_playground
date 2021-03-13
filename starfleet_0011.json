@@ -1,0 +1,454 @@
+{
+    "StarShips": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-74656"
+                    },
+                    "Name": {
+                        "S": "USS Voyager"
+                    },
+                    "ShipClass": {
+                        "S": "Intrepid"
+                    },
+                    "Description": {
+                        "S": "Primary setting of Star Trek: Voyager where it is commanded by Captain Kathryn Janeway. Commanded by Captain Chakotay in the \"Enemy of My Enemy\" book series, then commanded by Captain Afsarah Eden in the novel Unworthy, then by Captain Chakotay as final commander in the novels Full Circle and Children of the Storm."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-74705"
+                    },
+                    "Name": {
+                        "S": "USS Bellerophon"
+                    },
+                    "ShipClass": {
+                        "S": "Intrepid"
+                    },
+                    "Description": {
+                        "S": "Transports Federation personnel to a summit on Romulus. Flagship of Vice Admiral Ross during parts of the Dominion War."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-74710"
+                    },
+                    "Name": {
+                        "S": "USS Sally Ride"
+                    },
+                    "ShipClass": {
+                        "S": "Intrepid"
+                    },
+                    "Description": {
+                        "S": "Designed for deep space exploration and scientific discovery. It is the third ship in the Intrepid-class, having been commissioned at the same time as the USS Voyager. It has a cruising speed of warp 6 and a maximum sustainable speed of warp 9.975. Its armaments include ablative armor and quantum torpedoes. Commanded by Capt. Rafael Martinez. It appears in the Geek & Sundry web show Shield of Tomorrow."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-74791"
+                    },
+                    "Name": {
+                        "S": "USS Destiny"
+                    },
+                    "ShipClass": {
+                        "S": "Undetermined"
+                    },
+                    "Description": {
+                        "S": "Ezri Tigan's prior assignment before transferring to Deep Space Nine."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-75001"
+                    },
+                    "Name": {
+                        "S": "USS Monitor"
+                    },
+                    "ShipClass": {
+                        "S": "Defiant"
+                    },
+                    "Description": {
+                        "S": "Mentioned in both the books The Return and Preserver, lost under command of Captain John Scott Lewinski attempting to set a new warp speed record with recovered Borg transwarp drive."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-75353"
+                    },
+                    "Name": {
+                        "S": "USS Yolja"
+                    },
+                    "ShipClass": {
+                        "S": "Danube"
+                    },
+                    "Description": {
+                        "S": "First runabout to be named after a non-Earth river. Assigned to Deep Space 9. Appeared in Worlds of Star Trek: Deep Space Nine, Volume Three \u2013 The Dominion: Olympus Descending."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-75418"
+                    },
+                    "Name": {
+                        "S": "USS Valiant"
+                    },
+                    "ShipClass": {
+                        "S": "Sovereign"
+                    },
+                    "Description": {
+                        "S": "The Defiant class starship, USS Valiant NCC-74210 was destroyed in the year 2374 by the Jem'Hadar after a failed attempt to destroy a new Dominion Battleship class vessel. The new Valiant was put into active service just one year later as a Sovereign class starship."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-75689"
+                    },
+                    "Name": {
+                        "S": "USS Gibraltar"
+                    },
+                    "ShipClass": {
+                        "S": "Sovereign"
+                    },
+                    "Description": {
+                        "S": "Sacrificed itself against the Borg in 2381 in Star Trek: Destiny."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-77024"
+                    },
+                    "Name": {
+                        "S": "USS Achilles"
+                    },
+                    "ShipClass": {
+                        "S": "Mulciber"
+                    },
+                    "Description": {
+                        "S": "Commanded by Captain Tillum Drafar. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-78012"
+                    },
+                    "Name": {
+                        "S": "USS Cortez"
+                    },
+                    "ShipClass": {
+                        "S": "Galaxy"
+                    },
+                    "Description": {
+                        "S": "Referred to by Chief O'Brien and Captain Sisko during the mission to retake DS9. Lost patrolling Cardassian border"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-78056"
+                    },
+                    "Name": {
+                        "S": "USS Lynx"
+                    },
+                    "ShipClass": {
+                        "S": "Miranda"
+                    },
+                    "Description": {
+                        "S": "The Lynx was a troop transport during the Third Klingon And Federation War. She was later destroyed in a skirmish with a couple of Klingon Birds Of Prey, with all hands lost."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-79221"
+                    },
+                    "Name": {
+                        "S": "USS Saber"
+                    },
+                    "ShipClass": {
+                        "S": "Saber"
+                    },
+                    "Description": {
+                        "S": "Presumable namesake ship for the class."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-80102"
+                    },
+                    "Name": {
+                        "S": "USS Titan"
+                    },
+                    "ShipClass": {
+                        "S": "Luna"
+                    },
+                    "Description": {
+                        "S": "The USS Titan is the first command of Captain William Thomas Riker, former first officer of the USS Enterprise-D and USS Enterprise-E.A Luna-class starship, designed primarily for scientific discovery. Described as 450 meters long, the Titan was built with state-of-the-art science facilities as opposed to being a more tactically pronounced starship. With a complement of about 350 persons, the USS Titan comprises the most racially diverse crew in Starfleet, with less than 15% of the population being human, as well as a number of non-humanoid beings.A full set of schematics of the USS Titan is available in the novel Sword of Damocles of the Star Trek: Titan novel series."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-80109"
+                    },
+                    "Name": {
+                        "S": "USS Callisto"
+                    },
+                    "ShipClass": {
+                        "S": "Luna"
+                    },
+                    "Description": {
+                        "S": "Captained by Admiral Trenton Cole, a long time friend of Picard's."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-80110"
+                    },
+                    "Name": {
+                        "S": "USS Rhea"
+                    },
+                    "ShipClass": {
+                        "S": "Luna"
+                    },
+                    "Description": {
+                        "S": "Captained by Captain Bazel, a Saurian."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-80111"
+                    },
+                    "Name": {
+                        "S": "USS Charon"
+                    },
+                    "ShipClass": {
+                        "S": "Luna"
+                    },
+                    "Description": {
+                        "S": "Captained by Bellatora Fortis and destroyed during the novel Sword of Damocles of the Star Trek: Titan novel series."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-80115"
+                    },
+                    "Name": {
+                        "S": "USS Krakatoa"
+                    },
+                    "ShipClass": {
+                        "S": "Luna"
+                    },
+                    "Description": {
+                        "S": "Captained by Bartholomew Stavisky, a long time friend of Benjamin Sisko. Last command was USS Illinois NCC-12512, States class."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-81623"
+                    },
+                    "Name": {
+                        "S": "USS da Vinci"
+                    },
+                    "ShipClass": {
+                        "S": "Saber"
+                    },
+                    "Description": {
+                        "S": "Lead ship in Starfleet Corps of Engineers novel series. Named for Leonardo da Vinci."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-81890"
+                    },
+                    "Name": {
+                        "S": "USS Curie"
+                    },
+                    "ShipClass": {
+                        "S": "Merian"
+                    },
+                    "Description": {
+                        "S": "Commanded by Captain Xin Chan. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-81894"
+                    },
+                    "Name": {
+                        "S": "USS Planck"
+                    },
+                    "ShipClass": {
+                        "S": "Merian"
+                    },
+                    "Description": {
+                        "S": "Commanded by Captain Hosc T'Mar. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-81897"
+                    },
+                    "Name": {
+                        "S": "USS Hawking"
+                    },
+                    "ShipClass": {
+                        "S": "Merian"
+                    },
+                    "Description": {
+                        "S": "Commanded by Captain Bal Itak. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-82601"
+                    },
+                    "Name": {
+                        "S": "USS Vesta"
+                    },
+                    "ShipClass": {
+                        "S": "Vesta"
+                    },
+                    "Description": {
+                        "S": "Commanded by Captain Regina Farkas. Lead ship of the Vesta class. Mothballed soon after launch due to technical issues. Relaunched and becomes part of \"Project Full Circle\" in 2381 in the Star Trek: Voyager novel Protectors."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-82602"
+                    },
+                    "Name": {
+                        "S": "USS Aventine"
+                    },
+                    "ShipClass": {
+                        "S": "Vesta"
+                    },
+                    "Description": {
+                        "S": "First command of Captain Ezri Dax in Star Trek: Destiny. Has prototype slipstream warp drive."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-82610"
+                    },
+                    "Name": {
+                        "S": "USS Quirinal"
+                    },
+                    "ShipClass": {
+                        "S": "Vesta"
+                    },
+                    "Description": {
+                        "S": "Commanded by Captain Regina Farkas. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle. Destroyed by the Omega Continuum in 2381 in The Eternal Tide."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NCC-82614"
+                    },
+                    "Name": {
+                        "S": "USS Esquiline"
+                    },
+                    "ShipClass": {
+                        "S": "Vesta"
+                    },
+                    "Description": {
+                        "S": "Commanded by Captain Parimon Dasht. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle. Destroyed by the Omega Continuum in 2381 in The Eternal Tide."
+                    }
+                }
+            }
+        }
+    ]
+}

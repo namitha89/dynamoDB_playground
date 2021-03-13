@@ -1,0 +1,166 @@
+{
+    "StarShips": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NX-73515"
+                    },
+                    "Name": {
+                        "S": "USS Nova"
+                    },
+                    "ShipClass": {
+                        "S": "Nova"
+                    },
+                    "Description": {
+                        "S": "Presumable namesake ship for the class."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NX-73811"
+                    },
+                    "Name": {
+                        "S": "USS Sovereign"
+                    },
+                    "ShipClass": {
+                        "S": "Sovereign"
+                    },
+                    "Description": {
+                        "S": "First ship of the class which acts as a pathfinder ship. Appears in Star Trek Bridge Commander. Also features in the Shatnerverse novel Spectre."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NX-74010"
+                    },
+                    "Name": {
+                        "S": "USS Liberty"
+                    },
+                    "ShipClass": {
+                        "S": "Intrepid"
+                    },
+                    "Description": {
+                        "S": "Part of Battle Group Omega sent to intercept Reman warship Scimitar. Commanded by Captain Carl S. Bouchillon."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NX-74205"
+                    },
+                    "Name": {
+                        "S": "USS Defiant"
+                    },
+                    "ShipClass": {
+                        "S": "Defiant"
+                    },
+                    "Description": {
+                        "S": "Pathfinder. Assigned to space station Deep Space Nine. Participates in the Battle of Sector 001. Destroyed at the Second Battle of Chin'toka."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NX-74751"
+                    },
+                    "Name": {
+                        "S": "USS Yellowstone"
+                    },
+                    "ShipClass": {
+                        "S": "Yellowstone"
+                    },
+                    "Description": {
+                        "S": "Prototype for an advanced runabout designed in large part by Ensign Harry Kim and Lieutenant Laska in an alternate timeline. Destroyed by antimatter containment loss."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NX-76220"
+                    },
+                    "Name": {
+                        "S": "USS Steamrunner"
+                    },
+                    "ShipClass": {
+                        "S": "Steamrunner"
+                    },
+                    "Description": {
+                        "S": "Presumable namesake ship for the class."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NX-80101"
+                    },
+                    "Name": {
+                        "S": "USS Luna"
+                    },
+                    "ShipClass": {
+                        "S": "Luna"
+                    },
+                    "Description": {
+                        "S": "The prototype for the Luna-class. The ship was destroyed by a catastrophic engine failure before the events described in the novel Taking Wing of the Star Trek: Titan novel series took place."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NX-86350"
+                    },
+                    "Name": {
+                        "S": "USS Galen"
+                    },
+                    "ShipClass": {
+                        "S": "Galen"
+                    },
+                    "Description": {
+                        "S": "Prototype, commanded by Commander Clarissa Glenn. Part of the Project Full Circle in the Star Trek: Voyager relaunch novels."
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Registry": {
+                        "S": "NX-97000"
+                    },
+                    "Name": {
+                        "S": "USS Odyssey"
+                    },
+                    "ShipClass": {
+                        "S": "Odyssey"
+                    },
+                    "Description": {
+                        "S": "First ship of the Odyssey-class. Commissioned at Utopia Planetia. Currently in service."
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "MusicClass": {
+                        "S": "NCC-75633"
+                    },
+                    "Name": {
+                        "S": "USS Defiant"
+                    },
+                    "MusicType": {
+                        "S": "Defiant"
+                    },
+                    "Description": {
+                        "S": "Formerly the USS S\u00e3o Paulo. Assigned to space station Deep Space Nine. Participates in the Battle of Cardassia."
+                    }
+                }
+            }
+        }
+    ]
+}
